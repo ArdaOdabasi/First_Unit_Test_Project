@@ -1,0 +1,7 @@
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\bin\Debug\Helpers.exe.config
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\bin\Debug\Helpers.exe
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\bin\Debug\Helpers.pdb
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\obj\Debug\Helpers.exe
+C:\Users\pi\source\repos\C# Course\Test Driven Development\First_Unit_Test_Project\Helpers\obj\Debug\Helpers.pdb
